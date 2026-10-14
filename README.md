@@ -1,4 +1,4 @@
-# The Persian Cancer Discourse (PerCanDis) Dataset
+# Persian Cancer Discourse (PerCanDis) Dataset
 The Persian Cancer Discourse (PerCanDis) Dataset contains approximately 1.8 million tokens of Persian-language online discussions about cancer, collected to support research into how Iranian users describe and conceptualize cancer. The dataset consists of cancer-related forum posts scraped from [Ninisite.com](https://www.ninisite.com/), an Iranian online forum.
 
 ## Structure
