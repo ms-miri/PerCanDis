@@ -15,7 +15,7 @@ The Persian Cancer Discourse (PerCanDis) Dataset/
 ## Citation
 If you use the PerCanDis Dataset in your research, please cite it as follows.
 
-> Miri, M. S. (2026). *The Persian Cancer Discourse (PerCanDis) Dataset* [Data set]. GitHub. https://github.com/USERNAME/REPOSITORY
+> Miri, M. S. (2026). *The Persian Cancer Discourse (PerCanDis) Dataset* [Data set]. GitHub. https://github.com/ms-miri/PerCanDis
 
 **BibTeX**
 
